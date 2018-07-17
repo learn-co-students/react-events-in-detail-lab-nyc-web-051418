@@ -10,6 +10,6 @@ export default class DelayedButton extends Component {
   };
 
   render() {
-    return <button onClick={this.timerOuter}>FuckButton</button>;
+    return <button onClick={this.timerOuter}>Delayed</button>;
   }
 }
